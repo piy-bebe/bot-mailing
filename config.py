@@ -1,0 +1,7 @@
+TOKEN = "1221333412:AAFNXgYl_n8yAYsbD-DZHWdmitDFRFnyxaI"
+LEVEL_ACCESS = 0
+GROUP_ID = [
+    -472840319,  # 1 бот
+    -434763653,  # 2 бот
+    -388039219,  # 3 бот
+]
